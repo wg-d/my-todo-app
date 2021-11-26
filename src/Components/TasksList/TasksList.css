@@ -1,0 +1,12 @@
+.tasks-list-container{
+    display: flex;
+    width: 40%;
+    margin: auto;
+    justify-content: center;
+}
+
+.tasks-list{
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+}

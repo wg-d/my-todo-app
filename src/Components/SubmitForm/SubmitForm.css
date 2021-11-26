@@ -20,7 +20,7 @@ input{
     outline: none;
 }
 
-.add-btton:hover{
+.add-button:hover{
   background-color: #ccc;
   cursor: pointer;
 }
