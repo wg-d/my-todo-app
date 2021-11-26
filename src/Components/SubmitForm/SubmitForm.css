@@ -1,0 +1,26 @@
+.form{
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.add-button{
+  width: 100px;
+  padding: 10px;
+  font-size: 16px;
+  margin: 10px;
+  border: 2px solid rgb(97, 97, 97);
+  border-radius: 15px;
+  outline: none;
+}
+
+input{
+    width: 400px;
+    padding: 10px;
+    border-radius: 15px;
+    outline: none;
+}
+
+.add-btton:hover{
+  background-color: #ccc;
+  cursor: pointer;
+}
